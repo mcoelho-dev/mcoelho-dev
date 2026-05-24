@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Miguel 👋
 
-<!--
-**mcoelho-dev/mcoelho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ Aspiring Mainframe Developer focused on building a career in IBM Z technologies.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- COBOL
+- JCL
+- DB2 (learning)
+- VSAM (learning)
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- IBM Z Xplore (Fundamentals)
+- COBOL Programming with VS Code (IBM/Cognitive Class)
+- JCL, DB2, VSAM
+
+## 🌍 Languages
+- Portuguese (native)
+- English (fluent)
+- German (B1)
+
+## 🎯 Goals
+- IBM Mainframe Developer certification
+- First role as a Junior Mainframe Developer
+
+## 📫 Contact
+- GitHub: [@mcoelho-dev](https://github.com/mcoelho-dev)
