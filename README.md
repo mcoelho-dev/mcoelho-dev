@@ -1,4 +1,4 @@
-# Hi, I'm Miguel 👋
+# Hi, I'm Miguel
 
 🖥️ Aspiring Mainframe Developer focused on building a career in IBM Z technologies.
 
