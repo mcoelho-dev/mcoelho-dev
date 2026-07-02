@@ -40,3 +40,4 @@ Aspiring Mainframe Developer focused on building a career in IBM Z technologies.
 ## Contact
 
 - GitHub: [@mcoelho-dev](https://github.com/mcoelho-dev)
+- Linkedin: [Miguel Oliveira Coelho](https://www.linkedin.com/in/miguel-oliveira-coelho-/)
