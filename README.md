@@ -22,10 +22,6 @@ Aspiring Mainframe Developer focused on building a career in IBM Z technologies.
 - CS50 SQL (Harvard) — in progress
 - JCL, DB2, VSAM (deep dive)
 
-## Up Next
-
-- IBM Mainframe Practitioner
-
 ## Languages
 
 - Portuguese (native)
