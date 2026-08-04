@@ -5,7 +5,7 @@ Aspiring Mainframe Developer focused on building a career in IBM Z technologies.
 - COBOL
 - JCL
 - SQL / DB2
-- VSAM (learning)
+- VSAM
 - TSO/ISPF, SDSF, USS
 - RACF, PL/I, Assembler (introductory level)
 - Git
