@@ -11,8 +11,8 @@ Aspiring Mainframe Developer focused on building a career in IBM Z technologies.
 - Git
 
 ## Completed
-- ✅ IBM Z Xplore — full program (Introductory, Advanced & Extended tracks)
-- ✅ COBOL Programming with VS Code (IBM/Cognitive Class)
+- IBM Z Xplore — full program (Introductory, Advanced & Extended tracks)
+- COBOL Programming with VS Code (IBM/Cognitive Class)
 
 ## Currently Learning
 - CS50 SQL (Harvard) — in progress
