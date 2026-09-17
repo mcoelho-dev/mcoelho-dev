@@ -13,9 +13,9 @@ Aspiring Mainframe Developer focused on building a career in IBM Z technologies.
 ## Completed
 - IBM Z Xplore — full program (Introductory, Advanced & Extended tracks)
 - COBOL Programming with VS Code (IBM/Cognitive Class)
+- CS50's Introduction to Databases with SQL (Harvard University)
 
 ## Currently Learning
-- CS50 SQL (Harvard) — in progress
 - JCL, DB2, VSAM (deep dive)
 
 ## Languages
@@ -30,7 +30,7 @@ Aspiring Mainframe Developer focused on building a career in IBM Z technologies.
 
 ## Certifications
 
-[CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/certificates/31bd61ac-0926-47e4-88da-c65e8cc92929)
+[![CS50 SQL](https://img.shields.io/badge/CS50_SQL-Harvard_University-A51C30?style=flat&logo=harvard)](https://cs50.harvard.edu/certificates/31bd61ac-0926-47e4-88da-c65e8cc92929)
 
 <p>
   <a href="https://www.credly.com/badges/69acd391-6af7-43ff-b1f5-f7a35d99d2b8/public_url">
