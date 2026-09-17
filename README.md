@@ -32,6 +32,9 @@ Aspiring Mainframe Developer focused on building a career in IBM Z technologies.
 
 [![CS50 SQL](https://img.shields.io/badge/CS50_SQL-Harvard_University-A51C30?style=flat&logo=harvard)](https://cs50.harvard.edu/certificates/31bd61ac-0926-47e4-88da-c65e8cc92929)
 
+<a href="https://cs50.harvard.edu/certificates/31bd61ac-0926-47e4-88da-c65e8cc92929">
+    <img src="https://raw.githubusercontent.com/mcoelho-dev/mcoelho-dev/main/CS50%20SQL.png" alt="CS50 SQL Certificate" width="120"/>
+</a>
 <p>
   <a href="https://www.credly.com/badges/69acd391-6af7-43ff-b1f5-f7a35d99d2b8/public_url">
     <img src="https://images.credly.com/size/340x340/images/866e16a4-f013-41c7-bff9-6ddeb4a3f27c/COBOL_VSCode.png" alt="COBOL Programming with VSCode" width="120"/>
@@ -39,9 +42,6 @@ Aspiring Mainframe Developer focused on building a career in IBM Z technologies.
   <a href="https://www.credly.com/badges/7aba723b-b6e5-4e5e-b8af-92edc518cf44/public_url">
     <img src="https://images.credly.com/size/340x340/images/0f3e4162-ab6b-457c-8c0d-835a14680666/image.png" alt="IBM Z Xplore Concepts" width="120"/>
   </a>
-  <a href="https://cs50.harvard.edu/certificates/31bd61ac-0926-47e4-88da-c65e8cc92929">
-    <img src="https://raw.githubusercontent.com/mcoelho-dev/mcoelho-dev/main/CS50%20SQL.png" alt="CS50 SQL Certificate" width="120"/>
-</a>
   <a href="https://www.credly.com/badges/1dffb406-7596-487a-84a0-346f88100787/public_url">
     <img src="https://images.credly.com/size/340x340/images/9dde9b48-6cec-4bc4-ab33-ffeac5c681c3/image.png" alt="IBM Z Xplore Advanced" width="120"/>
   </a>
