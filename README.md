@@ -30,6 +30,8 @@ Aspiring Mainframe Developer focused on building a career in IBM Z technologies.
 
 ## Certifications
 
+[CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/certificates/31bd61ac-0926-47e4-88da-c65e8cc92929)
+
 <p>
   <a href="https://www.credly.com/badges/69acd391-6af7-43ff-b1f5-f7a35d99d2b8/public_url">
     <img src="https://images.credly.com/size/340x340/images/866e16a4-f013-41c7-bff9-6ddeb4a3f27c/COBOL_VSCode.png" alt="COBOL Programming with VSCode" width="120"/>
