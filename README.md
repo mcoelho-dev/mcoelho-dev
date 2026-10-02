@@ -36,8 +36,7 @@ Aspiring Mainframe Developer focused on building a career in IBM Z technologies.
 
 [![CS50 SQL](https://img.shields.io/badge/CS50_SQL-Harvard_University-A51C30?style=flat&logo=harvard)](https://cs50.harvard.edu/certificates/31bd61ac-0926-47e4-88da-c65e8cc92929)
 
-<img width="677" height="454" alt="image" src="https://github.com/user-attachments/assets/00225b9f-1d7f-485e-9395-ccb9df15c0cd" />
-
+[![CS50 SQL - edX](https://img.shields.io/badge/CS50_SQL-HarvardX_Verified-02262B?style=flat&logo=edx)](https://courses.edx.org/certificates/b50eee62078243449aa0ad2ff0da8bff)
 
 <p>
   <a href="https://www.credly.com/badges/69acd391-6af7-43ff-b1f5-f7a35d99d2b8/public_url">
