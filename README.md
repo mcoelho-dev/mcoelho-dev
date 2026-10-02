@@ -49,7 +49,7 @@ Aspiring Mainframe Developer focused on building a career in IBM Z technologies.
     <img src="https://images.credly.com/size/340x340/images/9dde9b48-6cec-4bc4-ab33-ffeac5c681c3/image.png" alt="IBM Z Xplore Advanced" width="120"/>
   </a>
   <a href="https://www.credly.com/badges/9264789e-96cc-486c-92cc-7443cfc9ed87/public_url">
-    <img src="https://images.credly.com/size/340x340/images/cf76c04a-d15b-4ca8-8207-7b3269222877/IBM_20Z_20Xplore_20All_20Star.png" alt="IBM Z Xplore All Star" width="120"/>
+    <img src="https://raw.githubusercontent.com/mcoelho-dev/mcoelho-dev/main/IBM_20Z_20Xplore_20All_20Star.png" alt="IBM Z Xplore All Star" width="120"/>
   </a>
 </p>
 
