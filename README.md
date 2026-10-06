@@ -22,7 +22,7 @@ Aspiring Mainframe Developer focused on building a career in IBM Z technologies.
 - Portuguese (native)
 - English (fluent)
 - German (C1)
-- French (A2)
+- French (B1)
 
 ## Goals
 - IBM Mainframe Developer certification
